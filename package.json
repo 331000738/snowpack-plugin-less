@@ -1,0 +1,11 @@
+{
+  "name": "snowpack-plugin-less",
+  "version": "0.0.1",
+  "main": "plugin.js",
+  "repository": "https://github.com/yuhongda/snowpack-plugin-less.git",
+  "author": "yuhongda <silverage.y@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "less": "^3.12.2"
+  }
+}
